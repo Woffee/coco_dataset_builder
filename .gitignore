@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+*.rar
+*.json
+output/
+.DS_Store
